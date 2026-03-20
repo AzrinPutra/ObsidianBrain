@@ -1,1 +1,9 @@
-[2026-03-20T06:00Z] Completed task 2026-03-20-001: EDR vs AV comparison report moved to vault/reports/EDR-vs-AV-comparison-2026-03-20.md. Knowledge gaps logged in memory/2026-03-20.md.
+# Completed Tasks
+
+## Task: 2026-03-20-001
+status: completed
+type: research
+assigned_agent: brain-researcher
+output_path: research/edr-vs-av.md
+completion_time: 2026-03-20T06:30:00Z
+---
