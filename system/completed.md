@@ -1,4 +1,17 @@
-- Completed researcher-sweep at 2026-03-20T07:30:00Z
-  Output: vault/research_sweep_20260320.json
-- Completed task 2026-03-20-001 at 2026-03-20T10:00:00Z
-  Output: research/python-oop-primer.md
+## Task: 2026-03-20-001
+status: completed
+type: research
+topic: Python OOP Primer
+source: telegram
+created_at: 2026-03-20 17:01
+completed_at: 2026-03-20 17:20
+
+### Request
+Based on projects/uni-prep-march2026.md, create a Python OOP primer
+at research/python-oop-primer.md covering: classes, objects, init,
+instance vs class variables, methods, inheritance, encapsulation.
+Use simple analogies. This is for someone who knows Python basics but
+has never done OOP. Include 5 short code examples.
+
+### Result
+Python OOP primer created at `research/python-oop-primer.md`
