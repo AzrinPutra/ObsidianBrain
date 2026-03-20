@@ -1,9 +1,11 @@
 ## Task: 2026-03-20-001
-status: processed
+status: completed
 type: research
 topic: Python OOP Primer
 source: telegram
 created_at: 2026-03-20 17:01
+completed_at: 2026-03-20 22:30
+output_file: research/python-oop-primer.md
 
 ### Request
 Based on projects/uni-prep-march2026.md, create a Python OOP primer
