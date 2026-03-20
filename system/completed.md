@@ -8,4 +8,3 @@
 **agent:** brain-researcher  
 **output:** research/EDR-vs-AV-comparison-2026-03-20.md  
 **completed_at:** 2026-03-20 11:23
-

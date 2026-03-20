@@ -2,7 +2,7 @@
 <!-- AI OS V2 — Enriched tasks assigned to agents. -->
 
 ## Task: 2026-03-20-001
-status: completed
+status: archived
 type: research
 topic: EDR vs traditional antivirus
 source: telegram
