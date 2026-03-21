@@ -47,16 +47,7 @@
     *   The Box Model (brief explanation: content, padding, border, margin).
 *   **Activity:** Take the HTML page from Day 3 and apply basic styling using an external CSS file (e.g., change colors, center text, add borders).
 
-### Day 5: March 24 - Web Dev Intro: JavaScript - The Interactivity (1 hour)
-*   **Goal:** Grasp the concept of client-side interactivity with JavaScript.
-*   **Content:**
-    *   What JavaScript is and its role (client-side scripting language).
-    *   How to include JS: `<script>` tag (in `<body>` or `<head>`).
-    *   Basic syntax: variables (`let`, `const`), data types (strings, numbers, booleans).
-    *   `console.log()` for debugging.
-    *   Basic DOM manipulation: selecting elements (`document.getElementById()`, `document.querySelector()`), changing text (`.textContent`, `.innerHTML`).
-    *   Event handling: very simple `onclick` event.
-*   **Activity:** Add a button to your HTML page. Use JavaScript to change the text of a paragraph when the button is clicked.
+
 
 ---
 
@@ -102,4 +93,8 @@
 2.  **Web Dev: The Core Purpose of HTML, CSS, and JavaScript:** Before diving into code, internalize that HTML is for *structure*, CSS is for *style*, and JS is for *interactivity*. This mental model will guide your learning.
 3.  **Problem-Solving Mindset (Debugging):** Programming involves errors. Understand that encountering errors is normal. Develop a habit of reading error messages, using `print()` or `console.log()` for debugging, and breaking down problems into smaller, manageable parts.
 
-This plan should give you a solid jumpstart. Good luck, Azrin!
+This plan should give you a solid jumpstart. Good luck, Azrin!These are the absolute basics for any programming. If you grasp how to store information (variables/data types) and how to make your program make decisions and repeat actions (control flow), you'll have a strong base.
+2.  **Web Dev: The Core Purpose of HTML, CSS, and JavaScript:** Before diving into code, internalize that HTML is for *structure*, CSS is for *style*, and JS is for *interactivity*. This mental model will guide your learning.
+3.  **Problem-Solving Mindset (Debugging):** Programming involves errors. Understand that encountering errors is normal. Develop a habit of reading error messages, using `print()` or `console.log()` for debugging, and breaking down problems into smaller, manageable parts.
+
+This plan should give you a solid jumpstart. Good luck, Azrin!rin!
