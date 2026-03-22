@@ -1,16 +1,17 @@
 ---
 title: Notion Migration Log
-date: 2026-03-21 14:41 SGT
+date: 2026-03-22 16:53 SGT
 tags: [migration, notion]
 ---
 
 # Notion Migration Log
 
-Migrated: 2026-03-21 14:41 SGT
-Total pages: 0
+Migrated: 2026-03-22 16:53 SGT
+Total pages: 7
 
 ## Pages Migrated
 
+- **SIM-UOW uni modules** → `vault/learning/modules/` (7 pages)
 
 ## Notes
 
