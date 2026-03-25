@@ -1,10 +1,12 @@
 ## Weekly Synthesis Notification
+- **Status:** processed
 - **Task:** Weekly knowledge synthesis complete
 - **Status:** processed
 - **Delivery:** Telegram summary
 - **Security Note:** Gemini embeddings offline - renew API key when possible
 
 ## Midweek Gaps Analysis 2026-03-20
+- **Status:** processed
 - **Task:** Midweek gaps analysis completed, findings written to research/midweek-gaps-2026-03-20.md
 - **Action Needed:** Send Telegram summary of analysis to user
 - **Key Points:** 
