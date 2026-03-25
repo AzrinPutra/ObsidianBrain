@@ -1,0 +1,99 @@
+# Midweek Gaps Analysis — Week of March 20–25, 2026
+
+## Summary
+This analysis reviews learning materials and daily notes from March 20–25, 2026 to identify topics started but not explored, questions raised but not answered, and concepts repeated. The goal is to surface gaps for further research and consolidation.
+
+## Sources Reviewed
+- Daily notes: 2026-03-20.md, 2026-03-23.md
+- Memory notes: 2026-03-23.md, 2026-03-24.md, 2026-03-25.md (largely empty)
+- Learning modules: Python OOP, CSIT127 Networks, CSIT123 Cyber Fundamentals, CSIT114 Systems Analysis, CSIT226 HCI, MARK213 Marketing
+- Previous research: weekly-synthesis-2026-03-20.md
+
+## Key Findings
+
+### 1. Topics Started but Not Explored
+
+**Python OOP**
+- Inheritance example (Supplier class) stops abruptly; no implementation of `order()` method shown.
+- Notebook case study code incomplete: `search()` method only returns first matching note (should return list).
+- No discussion of polymorphism, abstraction, or practical OOP patterns beyond basic inheritance.
+
+**Networks (CSIT127)**
+- Digital encoding schemes (NRZ-L, NRZI, Manchester, Differential Manchester) introduced but no examples of decoding or real‑world applications (Ethernet, Wi‑Fi).
+- OSI model layers described but no mapping to TCP/IP or modern protocols.
+- ARP/DHCP/DNS relationship mentioned but not elaborated.
+
+**Cyber Security Fundamentals (CSIT123)**
+- Logic gates and DeMorgan’s Law covered, but no connection to cryptographic circuits or hardware security.
+- Overflow detection explained but not linked to buffer‑overflow vulnerabilities.
+
+**Systems Analysis (CSIT114)**
+- Many rhetorical questions in notes (e.g., “What is the difference between system analysis and system design?”) left unanswered.
+- Concepts like use‑case modeling, stakeholders, requirements introduced but no practical exercises.
+
+**Human‑Computer Interaction (CSIT226)**
+- Module present but content not reviewed in this period.
+
+**Marketing (MARK213)**
+- Module present but not actively studied this week.
+
+### 2. Questions Raised but Not Answered
+
+From CSIT114:
+- Why do IT projects fail despite good developers?
+- What components make up an information system?
+- Why are stakeholders important?
+- How does Agile SDLC differ from traditional approaches?
+
+From weekly synthesis (March 20):
+- How might Python's `__init__` patterns apply to malware analysis sandbox initialization?
+- Could CSS specificity rules inform security policy precedence models?
+- What parallels exist between OOP polymorphism and polymorphic malware detection?
+- How do HTML semantic tags relate to threat intelligence taxonomy development?
+- Can Python's exception handling inform SIEM alert triage workflows?
+
+From daily notes:
+- No explicit questions logged, but learning logs are sparse (only “Refreshed on doc strings, functions and parameters for Python” on March 23).
+
+### 3. Concepts Repeated
+
+**Python OOP**
+- `__init__`, attributes, classes reiterated across multiple sections.
+- Notebook case study appears both as UML diagram and code, but same core concepts repeated.
+
+**Networks**
+- Internet/Intranet/Extranet definitions repeated with similar diagrams.
+- Hub vs Switch vs Router table appears in multiple forms.
+
+**Binary/Logic Fundamentals**
+- Two’s complement, overflow detection repeated across CSIT123 notes.
+
+## Priority Gaps
+
+### High‑Priority (Direct Study Impact)
+1. **Python OOP completeness** – finish inheritance example, implement `search()` correctly, introduce polymorphism.
+2. **Networks encoding practicals** – connect Manchester encoding to Ethernet frames, show real‑world traces.
+3. **Systems‑analysis unanswered questions** – answer the “why” and “how” questions that appear in notes.
+
+### Medium‑Priority (Connective Insight)
+4. **Security‑development parallels** – explore the weekly‑synthesis questions linking Python/OOP to malware analysis, SIEM workflows.
+5. **Logic‑gates to hardware‑security** – show how DeMorgan’s Law applies to secure circuit design.
+
+### Low‑Priority (Administrative)
+6. **Daily‑note discipline** – learning logs are minimal; need consistent capture of what was studied, what questions arose.
+7. **Module prioritization** – which modules are active vs. reference? Clear focus needed as term begins March 25.
+
+## Recommended Actions
+
+1. **Create focused research tasks** for each high‑priority gap (e.g., “Implement Python Notebook search returning list of notes”).
+2. **Schedule Q&A sessions** to answer the unanswered questions from CSIT114 and weekly synthesis.
+3. **Enhance daily notes** with explicit “Questions Raised” and “Concepts to Explore” sections.
+4. **Update learning modules** with completed examples and connections to security/cyber themes.
+
+## Next Steps
+- Add task to system/inbox.md for assistant to send Telegram summary.
+- Schedule 30‑minute review session to address one high‑priority gap per day.
+- Set up cron reminder for end‑of‑week synthesis (Friday evening).
+
+---
+*Analysis generated by midweek‑gaps cron job on 2026‑03‑25 23:00 SGT.*
