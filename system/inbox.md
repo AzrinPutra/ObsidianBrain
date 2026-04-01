@@ -20,7 +20,7 @@
 - **Delivery:** Telegram summary with actionable insights
 
 ## Midweek Gaps Analysis 2026-04-01
-- **Status:** pending_delivery_failure
+- **Status:** processed
 - **Task:** Send Telegram summary of midweek gaps analysis for week March 25–April 1
 - **Details:** Analysis completed and written to research/midweek-gaps-2026-04-01.md
 - **Key Findings:**
