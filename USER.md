@@ -1,25 +1,17 @@
-# User Profile
+# USER.md - About Your Human
 
-Name: Azrin
-Pronouns: he/him
-Location: Singapore (SGT, UTC+8)
-Graduating: 2028
+_Learn about the person you're helping. Update this as you go._
 
-## Current Focus (March 2026)
-University term starts March 25, 2026.
-Topics: Python fundamentals refresh, Python OOP, Web development fundamentals (HTML/CSS/JS).
-Python: seen before, needs refreshing.
-Web dev: completely new.
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
+- **Timezone:**
+- **Notes:**
 
-## Long Term Goals
-Break into cybersecurity professionally by 2028.
-Focus areas: SOC blue team, EDR, Splunk SIEM, MITRE ATT&CK, WAF.
+## Context
 
-## Daily Study
-About 1 hour per day available for active study.
+_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
 
-## Preferences
-- Plain text only in Telegram — no markdown formatting
-- Direct and concise responses
-- Capture ideas fast, synthesise deeply overnight
-- Morning study prompts should match current focus area
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
