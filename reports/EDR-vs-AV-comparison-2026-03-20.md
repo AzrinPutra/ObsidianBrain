@@ -25,3 +25,6 @@
 - No existing vault documentation on MITRE ATT&CK framework integration
 - Limited coverage of EDR false positive management strategies
 - No comparative analysis of leading EDR solutions (CrowdStrike vs Cylance vs SentinelOne)
+- EDR threat hunting workflows
+- AV signature update mechanisms
+- Cloud integration capabilities
