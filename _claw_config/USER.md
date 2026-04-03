@@ -6,7 +6,7 @@ Location: Singapore (SGT, UTC+8)
 Graduating: 2028
 
 ## Current Focus (April 2026)
-University term starts March 25, 2026.
+University term is ongoing (started March 25, 2026).
 Topics: Python fundamentals refresh, Python OOP, Web development fundamentals (HTML/CSS/JS).
 Python: seen before, needs refreshing.
 Web dev: completely new.
