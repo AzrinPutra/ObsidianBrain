@@ -1,0 +1,122 @@
+---  
+date: 2026-04-07  
+tags: [daily]        
+---        
+# Daily Note — 2026-04-07    
+        
+## Morning Priority        
+- [ ]         
+## Learning Log        
+- CSIT 121 OOP Assignment: Completed Q19-Q40 concepts
+- Goal: Internalize Python fundamentals - periodic testing requested
+        
+### Key Concepts Summary
+        
+**Q19 Matrix Multiplication**
+- A (m×n) × B (n→p) = m×p result
+- Check: A's cols must equal B's rows → if not, return None
+- 3 nested loops: i (rows), j (cols), k (walk through)
+- result[i][j] += A[i][k] * B[k][j]
+        
+**Q20 Prime Factorization**
+- Break n into primes × exponents
+- Trial division: try factors from 2 up to √n
+- While n % factor == 0: count++, divide n
+- Leftover n > 1: it's a prime factor (exponent 1)
+        
+**Q21 Binomial Coefficient C(n,k)**
+- n! / (k! × (n-k)!)
+- Guard: if k < 0 or k > n → return 0
+- Helper: factorial function
+        
+**Q24 Run-Length Encoding**
+- Count consecutive repeats
+- count += 1 (NOT count += i)
+- Handle last group after loop ends
+        
+**Q25 camelCase → snake_case**
+- Build new string, don't modify (strings immutable)
+- Check: letter.isupper() (NOT letter.upper())
+- Add '_' before uppercase letters
+        
+**Q27 Flatten Nested List (depth)**
+- Recursion: flatten with depth-1
+- Base case: depth == 0 → return copy
+- Use extend (unpack) vs append (keep nested)
+- isinstance(item, list) to check
+        
+**Q29 Window Sums**
+- Number of windows: len(nums) - k + 1
+- Slice: nums[i:i+k]
+- Collect into list: result.append(sum(...))
+        
+**Q30 Group by Function**
+- Key = f(item)
+- if key not in dict: dict[key] = []
+- dict[key].append(item)
+        
+**Q31 Partition by Predicate**
+- Two lists: true_list, false_list
+- pred(item) returns True/False
+- Return tuple: (true_list, false_list)
+        
+**Q32 Primes up to N**
+- Outer loop: 2 to n (every number)
+- Inner loop: 2 to √i (check divisibility)
+- is_prime flag pattern
+        
+**Q33 LIS (Longest Increasing Subsequence)** ⭐ NEEDS REVIEW
+- dp[i] = longest subsequence ending at i
+- dp = [1] * len(nums) (base case)
+- Nested loops: if nums[i] > nums[j]: dp[i] = max(dp[i], dp[j]+1)
+- Answer: max(dp)
+        
+**Q34 Quickselect**
+- Find k-th smallest (k is 1-based!)
+- Partition: pivot = arr[-1]
+- 3 buckets: left (<pivot), middle (=pivot), right (>pivot)
+- Recurse: if k <= len(left) → left; elif k > len(left)+len(middle) → right with adjusted k
+        
+**Q35 Horner's Method**
+- Polynomial: c0 + c1*x + c2*x²...
+- Iterate BACKWARDS: reversed(coeffs)
+- Formula: result = result * x + coeff
+        
+**Q36 Merge Intervals**
+- Step 1: Sort by start time
+- Overlap check: next_start <= current_end
+- Merge: current_end = max(current_end, next_end)
+- Append current at end of loop
+        
+**Q37 Balanced Brackets**
+- Stack: LIFO (Last In, First Out)
+- Push on open: ( { [
+- Pop on close: ) } ]
+- Guard: if not stack → return False
+- End: return not stack (True only if empty)
+        
+**Q38 BFS Shortest Path**
+- Use queue for BFS
+- Track visited to avoid cycles
+- Level-order traversal
+        
+**Q39 Levenshtein Edit Distance**
+- Min edits to transform a → b (insert, delete, substitute)
+- DP: dp[i][j] = distance between a[:i] and b[:j]
+- Base: dp[i][0]=i (delete all), dp[0][j]=j (insert all)
+- If a[i-1]==b[j-1]: dp[i][j]=dp[i-1][j-1]
+- Else: dp[i][j]=1+min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1])
+        
+**Q40 Spiral Matrix**
+- 4 directions: right, down, left, up
+- Boundaries shrink after each direction change
+        
+## Tasks        
+- [ ]        
+        
+## Notes        
+- Working on Python assignment (CSIT 121 OOP)      
+        
+## Evening Reflection      
+        
+## Tomorrow      
