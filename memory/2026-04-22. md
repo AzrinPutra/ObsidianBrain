@@ -1,0 +1,24 @@
+---  	  	
+date: 2026-04-22  	  	
+tags: [daily]      	
+---      	
+# Daily Note — 2026-04-22    
+      	
+## Morning Priority      	
+- [ ] CSIT 128 Web Dev Assignment 2 (XML, XSL, XSD)
+      		
+## Learning Log      	
+- XML: Fixed <?xml-stylesheet?> placement, merged forecast tags, xsi:noNamespaceSchemaLocation
+- XSL: Template matching, xsl:choose/when, xsl:if, attribute value templates {}, xsl:text
+- XSD: Validation structure, enum case sensitivity (Thur vs Thu)
+- CSS: : not =, padding on tr doesn't work, img size consistency
+     	  	
+## Tasks      	
+- [ ] CSIT 128 Web Dev Assignment 2 - Due May 11, 2026
+- [ ] CSIT 121 OOP Assignment 2 - Due May 2, 2026
+      	  	
+## Notes      	
+- Mid-day summary: XML/XSL/XSD/HTML/CSS progress
+## Evening Reflection      
+	 
+## Tomorrow
