@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e89f97f48e5570d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df14681e43c0b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d24113a0427f92b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e854bfe68ccb5763",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4fb766e0ceea89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5bee398299bcb2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2eb6cd8c2f9b6fd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2060fa17d145ea3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd99369ea8e823dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e453a40f0f05b494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b5c4811c317aca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "790f1d769c093980",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research/weekly-synthesis-2026-04-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from weekly-synthesis-2026-04-05"
+            }
+          },
+          {
+            "id": "3d679754c038573c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ef6e22e306076a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d35abf5df0d66965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research/weekly-synthesis-2026-04-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of weekly-synthesis-2026-04-05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2eb6cd8c2f9b6fd0",
+  "lastOpenFiles": [
+    "2026-04-29.md",
+    "www.notion.so/1f9bd926-b4e4-804d-a79d-e2c909889a98.md",
+    "www.notion.so/27dbd926-b4e4-8038-bea9-fe0520fccc80.md",
+    "www.notion.so",
+    "learning/python/oop/python_oop_concepts.md",
+    "learning/python/oop/oop-key-learnings.md",
+    "learning/python/oop/python-oop-examples.md",
+    "learning/web_dev/assignment1_part4_guide.md",
+    "learning/python/oop/exercises/day1.md",
+    "learning/future-security-topics.md",
+    "learning/python/oop/exercises",
+    "learning/python/oop",
+    "learning/powershell/powershell-resources.md",
+    "learning/powershell",
+    "learning/cybersecurity/regex/regex-resources.md",
+    "learning/cybersecurity/linux/linux-commands-refresher.md",
+    "learning/cybersecurity/regex",
+    "learning/cybersecurity/linux",
+    "learning/cybersecurity/future-security-topics.md",
+    "learning/cybersecurity",
+    "learning/linux-commands-refresher.md",
+    "learning/python-oop-examples.md",
+    "learning/python_oop/exercises/day1.md",
+    "system/NO_TASKS.log",
+    "research/weekly-synthesis-2026-04-20.md",
+    "research/weekly-synthesis-2026-03-23.md",
+    "notes/cyber_wellness_schedule.md",
+    "notes/cyber_ wellness_schedule.md",
+    "memory/2026-04-29.md",
+    "memory/2026-04-28.md",
+    "memory/2026-04-27.md",
+    "memory/2026-04-26.md",
+    "memory/2026-04-25.md",
+    "memory/2026-04-24.md",
+    "memory/2026-04-22. md",
+    "memory/2026-04-21. md"
+  ]
+}
