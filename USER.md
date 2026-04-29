@@ -12,7 +12,7 @@ _Learn about the person you're helping. Update this as you go._
 
 - **PowerShell**: Microsoft Learn "Get Started with Windows PowerShell" path
 - **Splunk**: Working towards Core User Certification
-- **Cyber Security**: TryHackMe SOC Level 1, Blue Team Labs
+- **Cyber Security**: TryHackMe SOC Level 1 (in progress - 3 rooms done: Junior Security Analyst Intro, SOC role in blue team, SOC L1 alert triage), Blue Team Labs
 - **Regex**: Needs more practice
 
 ## Schedule
