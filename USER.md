@@ -29,7 +29,7 @@ _Learn about the person you're helping. Update this as you go._
 
 _(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
 
-- CSIT 121 OOP Assignment 2 due May 2nd, 2026
+- CSIT 121 OOP Assignment 2 in progress (due May 2nd, 2026) - Shape/Circle/Square/Cube with abstract class
 - Splunk Dev License started Apr 27, 2026 (renewal reminder set for Oct 17, 2026)
 - Using Openclaw with minimax-m2.5 model as default
 - Planning system activated (system/inbox.md → planner → brain-researcher)
