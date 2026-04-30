@@ -11,14 +11,10 @@
             "id": "7d24113a0427f92b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/python-oop-primer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "python-oop-primer"
+              "title": "New tab"
             }
           }
         ]
@@ -196,11 +192,23 @@
   },
   "active": "7d24113a0427f92b",
   "lastOpenFiles": [
+    "research/python-oop-primer.md",
+    "research/synthesis/weekly-synthesis-2026-04-20.md",
+    "research/synthesis/weekly-synthesis-2026-04-05.md",
+    "research/synthesis/weekly-synthesis-2026-03-28.md",
+    "research/synthesis/weekly-synthesis-2026-03-23.md",
+    "research/synthesis/weekly-synthesis-2026-03-20.md",
+    "research/synthesis/midweek-gaps-2026-04-01.md",
+    "research/synthesis/midweek-gaps-2026-03-20.md",
+    "research/synthesis",
+    "research/python/python-oop-primer.md",
+    "research/python",
+    "research/cybersec/edr-vs-av.md",
+    "research/cybersec/EDR-vs-AV-comparison-2026-03-20.md",
     "research/weekly-synthesis-2026-04-20.md",
     "research/weekly-synthesis-2026-03-28.md",
     "research/weekly-synthesis-2026-03-23.md",
     "research/weekly-synthesis-2026-03-20.md",
-    "research/python-oop-primer.md",
     "research/midweek-gaps-2026-04-01.md",
     "research/midweek-gaps-2026-03-20.md",
     "research/EDR-vs-AV-comparison-2026-03-20.md",
@@ -213,24 +221,12 @@
     "www.notion.so/27dbd926-b4e4-8038-bea9-fe0520fccc80.md",
     "www.notion.so",
     "learning/python/oop/python-oop-examples.md",
-    "learning/web_dev/assignment1_part4_guide.md",
-    "learning/python/oop/exercises/day1.md",
-    "learning/future-security-topics.md",
     "learning/python/oop/exercises",
     "learning/python/oop",
-    "learning/powershell/powershell-resources.md",
     "learning/powershell",
-    "learning/cybersecurity/regex/regex-resources.md",
-    "learning/cybersecurity/linux/linux-commands-refresher.md",
     "learning/cybersecurity/regex",
     "learning/cybersecurity/linux",
-    "learning/cybersecurity/future-security-topics.md",
     "learning/cybersecurity",
-    "learning/linux-commands-refresher.md",
-    "learning/python-oop-examples.md",
-    "learning/python_oop/exercises/day1.md",
-    "system/NO_TASKS.log",
-    "memory/2026-04-22. md",
-    "memory/2026-04-21. md"
+    "system/NO_TASKS.log"
   ]
 }
