@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/powershell/powershell-resources.md",
+                "file": "research/synthesis/weekly-synthesis-2026-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "powershell-resources"
+              "title": "weekly-synthesis-2026-03-23"
             }
           }
         ]
@@ -196,10 +196,23 @@
   },
   "active": "7d24113a0427f92b",
   "lastOpenFiles": [
-    "research/python-oop-primer.md",
-    "research/synthesis/weekly-synthesis-2026-04-20.md",
-    "research/synthesis/weekly-synthesis-2026-04-05.md",
     "research/synthesis/weekly-synthesis-2026-03-28.md",
+    "research/synthesis/weekly-synthesis-2026-04-05.md",
+    "research/synthesis/weekly-synthesis-2026-04-20.md",
+    "system/inbox.md",
+    "system/in_progress.md",
+    "system/completed.md",
+    "templates/weekly-calendar.md",
+    "templates/daily-note.md",
+    "USER.md",
+    "_claw_config/USER.md",
+    "_claw_config/TOOLS.md",
+    "_claw_config/SOUL.md",
+    "_claw_config/IDENTITY.md",
+    "_claw_config/HEARTBEAT.md",
+    "_claw_config/AGENTS.md",
+    "learning/powershell/powershell-resources.md",
+    "research/python-oop-primer.md",
     "research/synthesis/weekly-synthesis-2026-03-23.md",
     "research/synthesis/weekly-synthesis-2026-03-20.md",
     "research/synthesis/midweek-gaps-2026-04-01.md",
@@ -211,20 +224,7 @@
     "research/cybersec/EDR-vs-AV-comparison-2026-03-20.md",
     "research/weekly-synthesis-2026-04-20.md",
     "research/weekly-synthesis-2026-03-28.md",
-    "research/weekly-synthesis-2026-03-23.md",
-    "research/weekly-synthesis-2026-03-20.md",
-    "research/midweek-gaps-2026-04-01.md",
-    "research/midweek-gaps-2026-03-20.md",
-    "research/EDR-vs-AV-comparison-2026-03-20.md",
-    "research/edr-vs-av.md",
-    "research/tools/opencode-framework.md",
-    "learning/python/oop/python_oop_concepts.md",
-    "learning/python/oop/oop-key-learnings.md",
-    "2026-04-29.md",
-    "www.notion.so/1f9bd926-b4e4-804d-a79d-e2c909889a98.md",
-    "www.notion.so/27dbd926-b4e4-8038-bea9-fe0520fccc80.md",
     "www.notion.so",
-    "learning/python/oop/python-oop-examples.md",
     "learning/python/oop/exercises",
     "learning/python/oop",
     "learning/powershell",
